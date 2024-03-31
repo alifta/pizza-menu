@@ -6,5 +6,5 @@ This is a simple React project that shows the proper usage of components and pro
 
 Use the following scripts to install and run the project:
 
-`npm install`
+`npm install`    
 `npm start`
